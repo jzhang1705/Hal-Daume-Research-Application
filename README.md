@@ -77,3 +77,6 @@ To compile the code, go to the directory and type ```python3 TopTenCounter.py fi
 4: wide 1
 4: range 1
 ```
+## Assumptions Made
+The crucial assumption is that we care about ties. Another assumption was it might be good to show that I can both code this algorithmically as well as using packages from a language used in the internship.
+
